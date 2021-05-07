@@ -1,0 +1,11 @@
+C:\Users\profe\Desktop\Visual Projeler\Araba Satış Uygulaması\Araba Satış Uygulaması\bin\Debug\Araba Satış Uygulaması.exe.config
+C:\Users\profe\Desktop\Visual Projeler\Araba Satış Uygulaması\Araba Satış Uygulaması\bin\Debug\Araba Satış Uygulaması.exe
+C:\Users\profe\Desktop\Visual Projeler\Araba Satış Uygulaması\Araba Satış Uygulaması\bin\Debug\Araba Satış Uygulaması.pdb
+C:\Users\profe\Desktop\Visual Projeler\Araba Satış Uygulaması\Araba Satış Uygulaması\obj\Debug\Araba Satış Uygulaması.csprojAssemblyReference.cache
+C:\Users\profe\Desktop\Visual Projeler\Araba Satış Uygulaması\Araba Satış Uygulaması\obj\Debug\Araba_Satış_Uygulaması.Form1.resources
+C:\Users\profe\Desktop\Visual Projeler\Araba Satış Uygulaması\Araba Satış Uygulaması\obj\Debug\Araba_Satış_Uygulaması.Properties.Resources.resources
+C:\Users\profe\Desktop\Visual Projeler\Araba Satış Uygulaması\Araba Satış Uygulaması\obj\Debug\Araba Satış Uygulaması.csproj.GenerateResource.cache
+C:\Users\profe\Desktop\Visual Projeler\Araba Satış Uygulaması\Araba Satış Uygulaması\obj\Debug\Araba Satış Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\Visual Projeler\Araba Satış Uygulaması\Araba Satış Uygulaması\obj\Debug\Araba Satış Uygulaması.exe
+C:\Users\profe\Desktop\Visual Projeler\Araba Satış Uygulaması\Araba Satış Uygulaması\obj\Debug\Araba Satış Uygulaması.pdb
+C:\Users\profe\Desktop\Visual Projeler\Araba Satış Uygulaması\Araba Satış Uygulaması\obj\Debug\Araba_Satış_Uygulaması.FrmGiriş.resources
